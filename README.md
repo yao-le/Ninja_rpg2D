@@ -1,6 +1,6 @@
 ### 忍者RPG小游戏
 
-[Demo] (https://yao-le.github.io/Ninja_rpg2D/)链接
+[Demo] (https://yao-le.github.io/Ninja_rpg2D/) 链接
 
 - A：向左
 - D：向右
